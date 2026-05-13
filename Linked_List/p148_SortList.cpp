@@ -1,8 +1,8 @@
-// Problem: Design Browser History
+// Problem: Sort List
 // Platform: LeetCode
 // Difficulty: Medium
 // Link: https://leetcode.com/problems/sort-list/
-// Topics: Doubly Linked List, System
+// Topics: Singly Linked List, STL list
 
 /*
 Given the head of a linked list, return the list after sorting it in ascending order.
