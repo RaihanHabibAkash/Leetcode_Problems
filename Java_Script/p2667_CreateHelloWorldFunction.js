@@ -1,3 +1,9 @@
+// Problem: Create Hello World Function
+// Platform: LeetCode
+// Difficulty: Easy
+// Link: https://leetcode.com/problems/create-hello-world-function/
+// Topics: Basic return from fuction
+
 /*
 Write a function createHelloWorld. It should return a new function that always returns "Hello World".
  
