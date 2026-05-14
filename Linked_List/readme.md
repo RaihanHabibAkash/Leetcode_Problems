@@ -9,3 +9,5 @@
 [Problem 876](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 [Problem 141](https://leetcode.com/problems/linked-list-cycle/)
+
+[Problem 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
