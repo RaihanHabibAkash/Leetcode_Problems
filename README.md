@@ -16,3 +16,5 @@
 [Problem 1472](https://leetcode.com/problems/design-browser-history/)
 
 [Problem 148](https://leetcode.com/problems/sort-list/)
+
+[Problem 1](https://leetcode.com/problems/two-sum/)
