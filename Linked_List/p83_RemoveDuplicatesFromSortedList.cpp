@@ -57,7 +57,7 @@ void removeNext(ListNode* &cur) {
         ListNode* cur = head;
         
         // if only no node
-        if(head == NULL) return NULL;
+        if(head == NULL) return head;
 
         while(cur->next != NULL) {
             // if two node val is same delete it
