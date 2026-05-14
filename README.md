@@ -5,6 +5,9 @@
 
 [Problem 2620](https://leetcode.com/problems/counter/)
 
+[Problem 2704](https://leetcode.com/problems/to-be-or-not-to-be/)
+<!-- Ends -->
+
 <!-- Programming Problems -->
 [Problem 1472](https://leetcode.com/problems/design-browser-history/)
 

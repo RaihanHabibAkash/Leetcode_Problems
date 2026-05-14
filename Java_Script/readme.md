@@ -3,3 +3,5 @@
 [Problem 2667](https://leetcode.com/problems/create-hello-world-function/)
 
 [Problem 2620](https://leetcode.com/problems/counter/)
+
+[Problem 2704](https://leetcode.com/problems/to-be-or-not-to-be/)
