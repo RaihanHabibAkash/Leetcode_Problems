@@ -59,7 +59,7 @@ void removeNext(ListNode* &cur) {
         // if only no node
         if(head == NULL) return NULL;
 
-        while(cur->next != NULL && cur != NULL) {
+        while(cur->next != NULL) {
             // if two node val is same delete it
             if(cur->val == cur->next->val){
                 removeNext(cur);
