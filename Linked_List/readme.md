@@ -11,3 +11,5 @@
 [Problem 141](https://leetcode.com/problems/linked-list-cycle/)
 
 [Problem 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
+[Problem 206](https://leetcode.com/problems/reverse-linked-list/)
