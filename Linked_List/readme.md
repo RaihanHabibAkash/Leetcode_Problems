@@ -19,3 +19,5 @@
 [Problem 237](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
 [Problem 160](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+[Problem 1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
