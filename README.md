@@ -34,3 +34,5 @@
 [Problem 234](https://leetcode.com/problems/palindrome-linked-list/)
 
 [Problem 237](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
+[Problem 160](https://leetcode.com/problems/intersection-of-two-linked-lists/)
