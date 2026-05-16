@@ -25,3 +25,5 @@
 [Problem 203](https://leetcode.com/problems/remove-linked-list-elements/)
 
 [Problem 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+[Problem 2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
