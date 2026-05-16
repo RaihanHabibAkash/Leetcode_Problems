@@ -27,3 +27,5 @@
 [Problem 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 [Problem 2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
+
+[Problem 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
