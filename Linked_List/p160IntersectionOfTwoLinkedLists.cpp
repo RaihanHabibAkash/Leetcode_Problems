@@ -2,7 +2,7 @@
 // Platform: LeetCode
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/intersection-of-two-linked-lists/
-// Topics: Singly Linked List Compareing each with onether.O(n^2)
+// Topics: Singly Linked List Two pointer technique
 
 /*
 Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
@@ -61,10 +61,8 @@ The number of nodes of listB is in the n.
 0 <= skipB <= n
 intersectVal is 0 if listA and listB do not intersect.
 intersectVal == listA[skipA] == listB[skipB] if listA and listB intersect.
- 
-
-Follow up: Could you write a solution that runs in O(m + n) time and use only O(1) memory?
 */
+
 
 
 
@@ -80,23 +78,20 @@ Follow up: Could you write a solution that runs in O(m + n) time and use only O(
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        // Pointer to track the current
+        // Creating 2 Nodes for traversing
         ListNode* cur1 = headA;
         ListNode* cur2 = headB;
 
-        // Checking each points of cur2 with cur1
-        while(cur2 != NULL) {
-            // after every loop cur1 will point headA again
-            cur1 = headA;
-            while(cur1 != NULL) {
-                if(cur1 == cur2) return cur1;
-                else cur1 = cur1->next;
-            }
-            cur2 = cur2->next;
-        }
-        // No Intersection
-        return NULL;       
+        // Will move to same point after 2 time iteration
+        while(cur1 != cur2) {
+            if(cur1 != NULL) cur1 = cur1->next;
+            else cur1 = headB;
 
-    // Function ends
+            if(cur2 != NULL) cur2 = cur2->next;
+            else cur2 = headA;
+        }
+
+        // If intersection found will stop at that node or stop at NULL;
+        return cur1;
     }
 };
