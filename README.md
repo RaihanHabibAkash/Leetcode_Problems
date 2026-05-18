@@ -48,3 +48,5 @@
 [Problem 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
 [Problem 704](https://leetcode.com/problems/binary-search/)
+
+[Problem 24](https://leetcode.com/problems/swap-nodes-in-pairs/)

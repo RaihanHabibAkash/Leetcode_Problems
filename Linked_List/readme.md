@@ -29,3 +29,5 @@
 [Problem 2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
 
 [Problem 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+
+[Problem 24](https://leetcode.com/problems/swap-nodes-in-pairs/)
