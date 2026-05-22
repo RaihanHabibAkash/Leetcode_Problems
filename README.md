@@ -50,3 +50,5 @@
 [Problem 704](https://leetcode.com/problems/binary-search/)
 
 [Problem 24](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
+[Solution 225](https://leetcode.com/problems/implement-stack-using-queues/)
