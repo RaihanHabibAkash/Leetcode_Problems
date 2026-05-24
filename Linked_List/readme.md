@@ -1,33 +1,33 @@
 # Linked List
 
-[Problem 1472](https://leetcode.com/problems/design-browser-history/)
+[Solution 1472](https://leetcode.com/problems/design-browser-history/)
 
-[Problem 148](https://leetcode.com/problems/sort-list/)
+[Solution 148](https://leetcode.com/problems/sort-list/)
 
-[Problem 21](https://leetcode.com/problems/merge-two-sorted-lists/)
+[Solution 21](https://leetcode.com/problems/merge-two-sorted-lists/)
 
-[Problem 876](https://leetcode.com/problems/middle-of-the-linked-list/)
+[Solution 876](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-[Problem 141](https://leetcode.com/problems/linked-list-cycle/)
+[Solution 141](https://leetcode.com/problems/linked-list-cycle/)
 
-[Problem 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+[Solution 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
-[Problem 206](https://leetcode.com/problems/reverse-linked-list/)
+[Solution 206](https://leetcode.com/problems/reverse-linked-list/)
 
-[Problem 234](https://leetcode.com/problems/palindrome-linked-list/)
+[Solution 234](https://leetcode.com/problems/palindrome-linked-list/)
 
-[Problem 237](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+[Solution 237](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
-[Problem 160](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+[Solution 160](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
-[Problem 1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+[Solution 1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
-[Problem 203](https://leetcode.com/problems/remove-linked-list-elements/)
+[Solution 203](https://leetcode.com/problems/remove-linked-list-elements/)
 
-[Problem 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+[Solution 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
-[Problem 2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
+[Solution 2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
 
-[Problem 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+[Solution 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
-[Problem 24](https://leetcode.com/problems/swap-nodes-in-pairs/)
+[Solution 24](https://leetcode.com/problems/swap-nodes-in-pairs/)
