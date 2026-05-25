@@ -60,7 +60,6 @@ public:
         }
 
         // Checker
-        if(st1 == st2) return true;
-        else return false;
+        return st1 == st2;
     }
 };
