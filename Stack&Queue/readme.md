@@ -9,3 +9,5 @@
 [Solution 155](https://leetcode.com/problems/min-stack/)
 
 [Solution 20](https://leetcode.com/problems/valid-parentheses/)
+
+[Solution 844](https://leetcode.com/problems/backspace-string-compare/)
