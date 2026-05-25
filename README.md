@@ -58,3 +58,5 @@
 [Solution 1823](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 
 [Solution 155](https://leetcode.com/problems/min-stack/)
+
+[Solution 20](https://leetcode.com/problems/valid-parentheses/)
