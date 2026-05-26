@@ -11,3 +11,5 @@
 [Solution 20](https://leetcode.com/problems/valid-parentheses/)
 
 [Solution 844](https://leetcode.com/problems/backspace-string-compare/)
+
+[Solution 921(Medium)](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)

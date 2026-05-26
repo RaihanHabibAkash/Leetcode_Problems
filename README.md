@@ -66,3 +66,5 @@
 [Solution 387(Easy)](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 [Solution 3120(Easy)](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
+
+[Solution 921(Medium)](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
