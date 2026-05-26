@@ -13,3 +13,5 @@
 [Solution 844](https://leetcode.com/problems/backspace-string-compare/)
 
 [Solution 921(Medium)](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+[Solution 1047(Easy)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)

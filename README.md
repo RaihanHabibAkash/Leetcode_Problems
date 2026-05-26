@@ -68,3 +68,5 @@
 [Solution 3120(Easy)](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
 
 [Solution 921(Medium)](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+[Solution 1047(Easy)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
