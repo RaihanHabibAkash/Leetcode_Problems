@@ -1,6 +1,6 @@
 // Problem: First Unique Character in a String
 // Platform: LeetCode
-// Difficulty: Medium
+// Difficulty: Easy
 // Link: https://leetcode.com/problems/first-unique-character-in-a-string/
 // Topics: Freq array
 /*
