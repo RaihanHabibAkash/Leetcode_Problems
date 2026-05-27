@@ -16,4 +16,6 @@
 
 [Solution 1047(Easy)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
-[Solution 1544(Easy)](https://leetcode.com/problems/make-the-string-great/)\
+[Solution 1544(Easy)](https://leetcode.com/problems/make-the-string-great/)
+
+[Solution 1598(Easy)](https://leetcode.com/problems/crawler-log-folder/)
