@@ -70,3 +70,5 @@
 [Solution 921(Medium)](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 
 [Solution 1047(Easy)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+
+[Solution 1544(Easy)](https://leetcode.com/problems/make-the-string-great/)
