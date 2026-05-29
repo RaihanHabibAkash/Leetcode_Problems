@@ -7,3 +7,5 @@
 [Solution 1](https://leetcode.com/problems/two-sum/)
 
 [Solution 9(Easy)](https://leetcode.com/problems/palindrome-number/)
+
+[Solution 27(Easy)](https://leetcode.com/problems/remove-element/)

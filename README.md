@@ -76,3 +76,5 @@
 [Solution 1598(Easy)](https://leetcode.com/problems/crawler-log-folder/)
 
 [Solution 9(Easy)](https://leetcode.com/problems/palindrome-number/)
+
+[Solution 27(Easy)](https://leetcode.com/problems/remove-element/)
