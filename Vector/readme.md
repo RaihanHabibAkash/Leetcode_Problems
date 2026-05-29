@@ -1,7 +1,9 @@
 # Vector
 
-[Problem 1929](https://leetcode.com/problems/concatenation-of-array/)
+[Solution 1929](https://leetcode.com/problems/concatenation-of-array/)
 
-[Problem 704](https://leetcode.com/problems/binary-search/)
+[Solution 704](https://leetcode.com/problems/binary-search/)
 
-[Problem 1](https://leetcode.com/problems/two-sum/)
+[Solution 1](https://leetcode.com/problems/two-sum/)
+
+[Solution 9(Easy)](https://leetcode.com/problems/palindrome-number/)
