@@ -78,3 +78,5 @@
 [Solution 9(Easy)](https://leetcode.com/problems/palindrome-number/)
 
 [Solution 27(Easy)](https://leetcode.com/problems/remove-element/)
+
+[Solution 26(Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
