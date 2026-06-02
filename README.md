@@ -80,3 +80,5 @@
 [Solution 27(Easy)](https://leetcode.com/problems/remove-element/)
 
 [Solution 26(Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+[Solution 58(Easy)](https://leetcode.com/problems/length-of-last-word/)
