@@ -82,3 +82,5 @@
 [Solution 26(Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 [Solution 58(Easy)](https://leetcode.com/problems/length-of-last-word/)
+
+[Solution 144(Easy)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
