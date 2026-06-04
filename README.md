@@ -94,3 +94,5 @@
 [Solution 104(Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 [Solution 199(Medium)](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+[Solution 513(Medium)](https://leetcode.com/problems/find-bottom-left-tree-value/)
