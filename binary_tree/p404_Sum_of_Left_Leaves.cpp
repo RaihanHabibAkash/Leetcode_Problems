@@ -36,8 +36,8 @@ public:
         if(root == NULL) return 0;
         if(!root->left && !root->right && flag) return root->val;
 
-        int l = left_leaf_sum(root->left, flag = true);
-        int r = left_leaf_sum(root->right, flag = false);
+        int l = left_leaf_sum(root->left, true);
+        int r = left_leaf_sum(root->right, false);
 
         return l+r;
     }
