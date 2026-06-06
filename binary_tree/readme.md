@@ -17,3 +17,5 @@
 [Solution 102(Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 [Solution 543(Easy)](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+[Solution 226(Easy)](https://leetcode.com/problems/invert-binary-tree/)
