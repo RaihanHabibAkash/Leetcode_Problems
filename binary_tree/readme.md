@@ -15,3 +15,5 @@
 [Solution 513(Medium)](https://leetcode.com/problems/find-bottom-left-tree-value/)
 
 [Solution 102(Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+[Solution 543(Easy)](https://leetcode.com/problems/diameter-of-binary-tree/)
