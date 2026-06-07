@@ -112,3 +112,5 @@
 [Solution 965(Easy)](https://leetcode.com/problems/univalued-binary-tree/)
 
 [Solution 872(Easy)](https://leetcode.com/problems/leaf-similar-trees/)
+
+[Solution 100(Easy)](https://leetcode.com/problems/same-tree/)
