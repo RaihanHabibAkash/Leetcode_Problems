@@ -23,3 +23,5 @@
 [Solution 1302(Medium)](https://leetcode.com/problems/deepest-leaves-sum/)
 
 [Solution 700(Easy)](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+
+[Solution 2236(Easy)](https://leetcode.com/problems/root-equals-sum-of-children/)
