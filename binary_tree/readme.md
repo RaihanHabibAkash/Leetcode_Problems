@@ -27,3 +27,5 @@
 [Solution 2236(Easy)](https://leetcode.com/problems/root-equals-sum-of-children/)
 
 [Solution 965(Easy)](https://leetcode.com/problems/univalued-binary-tree/)
+
+[Solution 872(Easy)](https://leetcode.com/problems/leaf-similar-trees/)
