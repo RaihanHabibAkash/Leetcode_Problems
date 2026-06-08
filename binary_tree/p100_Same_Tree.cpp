@@ -39,8 +39,7 @@ class Solution {
 public:
     bool same(TreeNode* p, TreeNode* q) {
         // Base case
-        if(!p && q) return false;
-        else if(p && !q) return false;
+        if((!p && q) || (p && !q)) return false;
         else if(!p && !q) return true;
 
         if(p->val != q->val) return false;
