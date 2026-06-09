@@ -31,3 +31,5 @@
 [Solution 872(Easy)](https://leetcode.com/problems/leaf-similar-trees/)
 
 [Solution 100(Easy)](https://leetcode.com/problems/same-tree/)
+
+[Solution 111(Easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
