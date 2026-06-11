@@ -118,3 +118,5 @@
 [Solution 111(Easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 [Solution 2415(Medium)](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)
+
+[Solution 108(Easy)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
