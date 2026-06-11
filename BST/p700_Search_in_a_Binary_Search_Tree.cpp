@@ -34,27 +34,16 @@ root is a binary search tree.
 
 class Solution {
 public:
-    bool flag = false;
-    void preOrder(TreeNode* root, int val, TreeNode* &node) {
+    TreeNode* is_there(TreeNode* root, int val) {
         // Base case
-        if(!root) return;
-        
-        if(flag) return;
+        if(!root) return NULL;
 
-        if(root->val == val) {
-            node = root;
-            flag = true;
-            return;
-        }
-        preOrder(root->left, val, node);
-        preOrder(root->right, val, node);
+        if(root->val == val) return root;
+        else if(root->val < val) return is_there(root->right, val);
+        else return is_there(root->left, val);
     }
     TreeNode* searchBST(TreeNode* root, int val) {
-        if(!root) return NULL;
-        TreeNode* node = NULL;
-        preOrder(root, val, node);
-
-        return node;
+        return is_there(root, val);
     }
 };
 
