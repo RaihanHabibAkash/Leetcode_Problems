@@ -120,3 +120,5 @@
 [Solution 2415(Medium)](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)
 
 [Solution 108(Easy)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+[Solution 701(Medium)](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
