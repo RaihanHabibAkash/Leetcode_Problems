@@ -33,3 +33,5 @@
 [Solution 111(Easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 [Solution 2415(Medium)](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)
+
+[Solution 101(Easy)](https://leetcode.com/problems/symmetric-tree/)
