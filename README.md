@@ -126,3 +126,5 @@
 [Solution 101(Easy)](https://leetcode.com/problems/symmetric-tree/)
 
 [Solution 938(Easy)](https://leetcode.com/problems/range-sum-of-bst/)
+
+[Solution 1464(Easy)](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
