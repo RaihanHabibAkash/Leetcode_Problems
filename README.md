@@ -124,3 +124,5 @@
 [Solution 701(Medium)](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 
 [Solution 101(Easy)](https://leetcode.com/problems/symmetric-tree/)
+
+[Solution 938(Easy)](https://leetcode.com/problems/range-sum-of-bst/)
