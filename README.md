@@ -130,3 +130,5 @@
 [Solution 1464(Easy)](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 
 [Solution 530(Easy)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+
+[Solution 897(Easy)](https://leetcode.com/problems/increasing-order-search-tree/)
