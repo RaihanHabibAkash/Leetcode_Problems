@@ -33,38 +33,43 @@ public:
     vector<int> nodes;
     void down_heapify(int idx) {
         while(1) {
-            int minIdx = idx;
-            
-            int leftIdx = 2*idx+1;         
-            int rightIdx = 2*idx+2;
+            int mnIdx = idx;
+            int lIdx = idx*2+1,
+                rIdx = idx*2+2;
 
-            if(leftIdx < nodes.size() && nodes[leftIdx] < nodes[minIdx]) minIdx = leftIdx;
-            if(rightIdx < nodes.size() && nodes[rightIdx] < nodes[minIdx]) minIdx = rightIdx;
+            if(lIdx < nodes.size() && nodes[lIdx] < nodes[mnIdx]) mnIdx = lIdx;
+            if(rIdx < nodes.size() && nodes[rIdx] < nodes[mnIdx]) mnIdx = rIdx;
 
-            if(minIdx == idx) break;
+            if(mnIdx == idx) break;
 
-            swap(nodes[minIdx], nodes[idx]);
-            idx = minIdx;
+            swap(nodes[mnIdx], nodes[idx]);
+            idx = mnIdx;
         }
     }
-    vector<int> heapSort() {
-        int lastNonLeftNode = nodes.size()/2-1;
+
+    int pop() {
+        int mn = nodes[0];
+        nodes[0] = nodes[nodes.size()-1];
+        nodes.pop_back();
+        down_heapify(0);
+        return mn;
+    }
+
+    vector<int> minHeap() {
         vector<int> v;
-
-        for(int i = lastNonLeftNode; i >= 0; i--) 
-            down_heapify(i);
-
-        int index = nodes.size();
-        for(int i = 0; i < index; i++) {
-            v.push_back(nodes[0]);
-            swap(nodes[0], nodes[nodes.size()-1]);
-            nodes.pop_back();
-            down_heapify(0);
-        }
+        while(!nodes.empty()) v.push_back(pop());
         return v;
     }
-    vector<int> sortArray(vector<int>& nums) {
+
+    void arrToHeap(vector<int>& nums) {
         nodes = nums;
-        return heapSort();
+
+        int lastNonLeafNode = nums.size()/2-1;
+        for(int i = lastNonLeafNode; i >= 0; i--) down_heapify(i);
+    }
+
+    vector<int> sortArray(vector<int>& nums) {
+        arrToHeap(nums);
+        return minHeap();
     }
 };
