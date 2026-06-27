@@ -134,3 +134,5 @@
 [Solution 897(Easy)](https://leetcode.com/problems/increasing-order-search-tree/)
 
 [Solution 912(Medium)](https://leetcode.com/problems/sort-an-array/)
+
+[Solution 707(Medium)](https://leetcode.com/problems/design-linked-list/)

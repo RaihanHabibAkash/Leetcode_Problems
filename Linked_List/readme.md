@@ -31,3 +31,5 @@
 [Solution 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
 [Solution 24](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
+[Solution 707(Medium)](https://leetcode.com/problems/design-linked-list/)
