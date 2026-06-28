@@ -138,3 +138,5 @@
 [Solution 707(Medium)](https://leetcode.com/problems/design-linked-list/)
 
 [Solution 109(Medium)](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+[Solution 450(Medium)](https://leetcode.com/problems/delete-node-in-a-bst/)
