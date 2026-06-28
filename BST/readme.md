@@ -15,3 +15,5 @@
 [Solution 109(Medium)](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 
 [Solution 450(Medium)](https://leetcode.com/problems/delete-node-in-a-bst/)
+
+[Solution 110(Easy)](https://leetcode.com/problems/balanced-binary-tree/)
