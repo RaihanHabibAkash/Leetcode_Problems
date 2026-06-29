@@ -148,3 +148,5 @@
 [Solution 724(Easy)](https://leetcode.com/problems/find-pivot-index/)
 
 [Solution 1991(Easy)](https://leetcode.com/problems/find-the-middle-index-in-array/)
+
+[Solution 783(Easy)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)

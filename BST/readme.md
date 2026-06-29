@@ -17,3 +17,5 @@
 [Solution 450(Medium)](https://leetcode.com/problems/delete-node-in-a-bst/)
 
 [Solution 110(Easy)](https://leetcode.com/problems/balanced-binary-tree/)
+
+[Solution 783(Easy)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
