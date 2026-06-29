@@ -142,3 +142,5 @@
 [Solution 450(Medium)](https://leetcode.com/problems/delete-node-in-a-bst/)
 
 [Solution 110(Easy)](https://leetcode.com/problems/balanced-binary-tree/)
+
+[Solution 2574(Easy)](https://leetcode.com/problems/left-and-right-sum-differences/)
