@@ -146,3 +146,5 @@
 [Solution 2574(Easy)](https://leetcode.com/problems/left-and-right-sum-differences/)
 
 [Solution 724(Easy)](https://leetcode.com/problems/find-pivot-index/)
+
+[Solution 1991(Easy)](https://leetcode.com/problems/find-the-middle-index-in-array/)
