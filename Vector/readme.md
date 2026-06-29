@@ -13,3 +13,5 @@
 [Solution 26(Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 [Solution 2574(Easy)](https://leetcode.com/problems/left-and-right-sum-differences/)
+
+[Solution 724(Easy)](https://leetcode.com/problems/find-pivot-index/)

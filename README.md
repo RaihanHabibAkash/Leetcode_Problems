@@ -144,3 +144,5 @@
 [Solution 110(Easy)](https://leetcode.com/problems/balanced-binary-tree/)
 
 [Solution 2574(Easy)](https://leetcode.com/problems/left-and-right-sum-differences/)
+
+[Solution 724(Easy)](https://leetcode.com/problems/find-pivot-index/)
