@@ -150,3 +150,5 @@
 [Solution 1991(Easy)](https://leetcode.com/problems/find-the-middle-index-in-array/)
 
 [Solution 783(Easy)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
+
+[Solution 92(Medium)](https://leetcode.com/problems/reverse-linked-list-ii/)

@@ -33,3 +33,5 @@
 [Solution 24](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 [Solution 707(Medium)](https://leetcode.com/problems/design-linked-list/)
+
+[Solution 92(Medium)](https://leetcode.com/problems/reverse-linked-list-ii/)
