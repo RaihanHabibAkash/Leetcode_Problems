@@ -19,3 +19,5 @@
 [Solution 110(Easy)](https://leetcode.com/problems/balanced-binary-tree/)
 
 [Solution 783(Easy)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
+
+[Solution 98(Medium)](https://leetcode.com/problems/validate-binary-search-tree/)

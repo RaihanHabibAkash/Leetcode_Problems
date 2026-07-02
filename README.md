@@ -152,3 +152,5 @@
 [Solution 783(Easy)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 
 [Solution 92(Medium)](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+[Solution 98(Medium)](https://leetcode.com/problems/validate-binary-search-tree/)
