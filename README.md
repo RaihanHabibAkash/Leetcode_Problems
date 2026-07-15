@@ -154,3 +154,5 @@
 [Solution 92(Medium)](https://leetcode.com/problems/reverse-linked-list-ii/)
 
 [Solution 98(Medium)](https://leetcode.com/problems/validate-binary-search-tree/)
+
+[Solution 654(Medium)](https://leetcode.com/problems/maximum-binary-tree/)
