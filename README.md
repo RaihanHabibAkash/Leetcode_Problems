@@ -158,3 +158,5 @@
 [Solution 654(Medium)](https://leetcode.com/problems/maximum-binary-tree/)
 
 [Solution 841(Medimu)](https://leetcode.com/problems/keys-and-rooms/)
+
+[Solution 3658(Easy)](https://leetcode.com/problems/gcd-of-odd-and-even-sums/)
