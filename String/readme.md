@@ -11,3 +11,5 @@
 [Solution 2011(Easy)](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 
 [Solution 3838(Easy)](https://leetcode.com/problems/weighted-word-mapping/)
+
+[Solution 2942(Easy)](https://leetcode.com/problems/find-words-containing-character/)

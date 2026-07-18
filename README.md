@@ -184,3 +184,5 @@
 [Solution 501(Easy)](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
 
 [Solution 3838(Easy)](https://leetcode.com/problems/weighted-word-mapping/)
+
+[Solution 2942(Easy)](https://leetcode.com/problems/find-words-containing-character/)
