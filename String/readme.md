@@ -25,3 +25,5 @@
 [Solution 3498(Easy)](https://leetcode.com/problems/reverse-degree-of-a-string/)
 
 [Solution 1684(Easy)](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
+
+[Solution 1678(Easy)](https://leetcode.com/problems/goal-parser-interpretation/)
