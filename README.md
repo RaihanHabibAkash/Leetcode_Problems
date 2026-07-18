@@ -198,3 +198,5 @@
 [Solution 3541(Easy)](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/)
 
 [Solution 3498(Easy)](https://leetcode.com/problems/reverse-degree-of-a-string/)
+
+[Solution 1684(Easy)](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
