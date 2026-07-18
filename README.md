@@ -174,3 +174,5 @@
 [Solution 1038(Medium)](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
 
 [Solution 99(Medium)](https://leetcode.com/problems/recover-binary-search-tree/)
+
+[Solution 3760(Medium)](https://leetcode.com/problems/maximum-substrings-with-distinct-start/)
