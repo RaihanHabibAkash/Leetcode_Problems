@@ -172,3 +172,5 @@
 [Solution 558(Medium)](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 
 [Solution 1038(Medium)](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
+
+[Solution 99(Medium)](https://leetcode.com/problems/recover-binary-search-tree/)
