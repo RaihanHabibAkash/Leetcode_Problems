@@ -180,3 +180,5 @@
 [Solution 3110(Easy)](https://leetcode.com/problems/score-of-a-string/)
 
 [Solution 2011(Easy)](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
+
+[Solution 501(Easy)](https://leetcode.com/problems/find-mode-in-binary-search-tree/)

@@ -33,3 +33,5 @@
 [Solution 1038(Medium)](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
 
 [Solution 99(Medium)](https://leetcode.com/problems/recover-binary-search-tree/)
+
+[Solution 501(Easy)](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
