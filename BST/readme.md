@@ -27,3 +27,5 @@
 [Solution 230(Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
 [Solution 173(Medium)](https://leetcode.com/problems/binary-search-tree-iterator/)
+
+[Solution 558(Medium)](https://leetcode.com/problems/convert-bst-to-greater-tree/)

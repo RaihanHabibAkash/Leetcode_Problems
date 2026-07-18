@@ -168,3 +168,5 @@
 [Solution 173(Medium)](https://leetcode.com/problems/binary-search-tree-iterator/)
 
 [Solutoin 1979(Easy)](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
+
+[Solution 558(Medium)](https://leetcode.com/problems/convert-bst-to-greater-tree/)
