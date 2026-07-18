@@ -19,3 +19,5 @@
 [Solution 2703(Easy)](https://leetcode.com/problems/return-length-of-arguments-passed/)
 
 [Solution 2666(Easy)](https://leetcode.com/problems/allow-one-function-call/)
+
+[Solution 2623(Easy)](https://leetcode.com/problems/memoize/)
