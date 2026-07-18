@@ -23,3 +23,5 @@
 [Solution 98(Medium)](https://leetcode.com/problems/validate-binary-search-tree/)
 
 [Solution 654(Medium)](https://leetcode.com/problems/maximum-binary-tree/)
+
+[Solution 230(Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)

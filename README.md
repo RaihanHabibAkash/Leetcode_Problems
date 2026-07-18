@@ -162,3 +162,5 @@
 [Solution 3658(Easy)](https://leetcode.com/problems/gcd-of-odd-and-even-sums/)
 
 [Solution 28(Easy)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+
+[Solution 230(Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
