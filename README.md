@@ -204,3 +204,5 @@
 [Solution 1678(Easy)](https://leetcode.com/problems/goal-parser-interpretation/)
 
 [Solution 2634(Easy)](https://leetcode.com/problems/filter-elements-from-array/)
+
+[Solution 2626(Easy)](https://leetcode.com/problems/array-reduce-transformation/)

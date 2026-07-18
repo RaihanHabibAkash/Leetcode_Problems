@@ -11,3 +11,5 @@
 [Solution 2635(Easy)](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)
 
 [Solution 2634(Easy)](https://leetcode.com/problems/filter-elements-from-array/)
+
+[Solution 2626(Easy)](https://leetcode.com/problems/array-reduce-transformation/)
