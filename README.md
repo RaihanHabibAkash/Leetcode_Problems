@@ -209,4 +209,6 @@
 [Solution 2626(Easy)](https://leetcode.com/problems/array-reduce-transformation/)
 
 [Solution 2629(Easy)](https://leetcode.com/problems/function-composition/)
+
+[Solution 2703(Easy)](https://leetcode.com/problems/return-length-of-arguments-passed/)
 <!-- JS Problems Ends -->
