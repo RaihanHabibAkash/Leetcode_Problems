@@ -182,3 +182,5 @@
 [Solution 2011(Easy)](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 
 [Solution 501(Easy)](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
+
+[Solution 3838(Easy)](https://leetcode.com/problems/weighted-word-mapping/)
