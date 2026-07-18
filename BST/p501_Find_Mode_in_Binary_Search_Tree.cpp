@@ -35,3 +35,41 @@ The number of nodes in the tree is in the range [1, 104].
 
 Follow up: Could you do that without using any extra space? (Assume that the implicit stack space incurred due to recursion does not count).
 */
+
+
+class Solution {
+public:
+    map<int,int> mp;
+    void dfs(TreeNode* root) {
+        if(!root) return;
+
+        dfs(root->left);
+        mp[root->val]++;
+        dfs(root->right);
+    }
+
+    vector<int> findMode(TreeNode* root) {
+        vector<int> nodes;
+        dfs(root);
+        int mx = 0;
+        for(auto it = mp.begin(); it != mp.end(); it++)
+            mx = max(mx, it->second);
+
+        for(auto it = mp.begin(); it != mp.end(); it++)
+            if(it->second == mx) nodes.push_back(it->first);
+            
+        return nodes;
+    }
+};
+
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
