@@ -13,3 +13,5 @@
 [Solution 2634(Easy)](https://leetcode.com/problems/filter-elements-from-array/)
 
 [Solution 2626(Easy)](https://leetcode.com/problems/array-reduce-transformation/)
+
+[Solution 2629(Easy)](https://leetcode.com/problems/function-composition/)

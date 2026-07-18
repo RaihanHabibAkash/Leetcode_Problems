@@ -1,17 +1,5 @@
 # Leetcode_Problems
 
-<!-- JS Problems -->
-[Solution 2667](https://leetcode.com/problems/create-hello-world-function/)
-
-[Solution 2620](https://leetcode.com/problems/counter/)
-
-[Solution 2704](https://leetcode.com/problems/to-be-or-not-to-be/)
-
-[Solution 2665](https://leetcode.com/problems/counter-ii/)
-
-[Solution 2635](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)
-<!-- Ends -->
-
 <!-- Programming Problems -->
 [Solution 1472](https://leetcode.com/problems/design-browser-history/)
 
@@ -203,6 +191,22 @@
 
 [Solution 1678(Easy)](https://leetcode.com/problems/goal-parser-interpretation/)
 
+<!-- Programming Problems End -->
+
+<!-- JS Problems Start -->
+[Solution 2667(Easy)](https://leetcode.com/problems/create-hello-world-function/)
+
+[Solution 2620(Easy)](https://leetcode.com/problems/counter/)
+
+[Solution 2704(Easy)](https://leetcode.com/problems/to-be-or-not-to-be/)
+
+[Solution 2665(Easy)](https://leetcode.com/problems/counter-ii/)
+
+[Solution 2635(Easy)](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)
+
 [Solution 2634(Easy)](https://leetcode.com/problems/filter-elements-from-array/)
 
 [Solution 2626(Easy)](https://leetcode.com/problems/array-reduce-transformation/)
+
+[Solution 2629(Easy)](https://leetcode.com/problems/function-composition/)
+<!-- JS Problems Ends -->
