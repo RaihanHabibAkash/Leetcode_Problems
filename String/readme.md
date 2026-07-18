@@ -19,3 +19,5 @@
 [Solution 771(Easy)](https://leetcode.com/problems/jewels-and-stones/)
 
 [Solution 3794(Easy)](https://leetcode.com/problems/reverse-string-prefix/)
+
+[Solution 3541(Easy)](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/)

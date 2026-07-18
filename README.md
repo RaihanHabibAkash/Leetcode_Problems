@@ -194,3 +194,5 @@
 [Solution 371(Easy)](https://leetcode.com/problems/sum-of-two-integers/)
 
 [Solution 3794(Easy)](https://leetcode.com/problems/reverse-string-prefix/)
+
+[Solution 3541(Easy)](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/)
