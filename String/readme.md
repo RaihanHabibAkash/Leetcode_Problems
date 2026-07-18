@@ -5,3 +5,5 @@
 [Solution 28(Easy)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 
 [Solution 3760(Medium)](https://leetcode.com/problems/maximum-substrings-with-distinct-start/)
+
+[Solution 3110(Easy)](https://leetcode.com/problems/score-of-a-string/)

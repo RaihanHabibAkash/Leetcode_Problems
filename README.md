@@ -176,3 +176,5 @@
 [Solution 99(Medium)](https://leetcode.com/problems/recover-binary-search-tree/)
 
 [Solution 3760(Medium)](https://leetcode.com/problems/maximum-substrings-with-distinct-start/)
+
+[Solution 3110(Easy)](https://leetcode.com/problems/score-of-a-string/)
