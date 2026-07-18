@@ -202,3 +202,5 @@
 [Solution 1684(Easy)](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 
 [Solution 1678(Easy)](https://leetcode.com/problems/goal-parser-interpretation/)
+
+[Solution 2634(Easy)](https://leetcode.com/problems/filter-elements-from-array/)
