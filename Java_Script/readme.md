@@ -17,3 +17,5 @@
 [Solution 2629(Easy)](https://leetcode.com/problems/function-composition/)
 
 [Solution 2703(Easy)](https://leetcode.com/problems/return-length-of-arguments-passed/)
+
+[Solution 2666(Easy)](https://leetcode.com/problems/allow-one-function-call/)
