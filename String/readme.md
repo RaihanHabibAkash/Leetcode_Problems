@@ -13,3 +13,5 @@
 [Solution 3838(Easy)](https://leetcode.com/problems/weighted-word-mapping/)
 
 [Solution 2942(Easy)](https://leetcode.com/problems/find-words-containing-character/)
+
+[Solution 1108(Easy)](https://leetcode.com/problems/defanging-an-ip-address/)
