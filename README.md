@@ -164,3 +164,5 @@
 [Solution 28(Easy)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 
 [Solution 230(Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+
+[Solution 173(Medium)](https://leetcode.com/problems/binary-search-tree-iterator/)
