@@ -193,6 +193,8 @@
 
 [Solution 773(Easy)](https://leetcode.com/problems/flood-fill/)
 
+[Solution 1254(Medium)](https://leetcode.com/problems/number-of-closed-islands/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
