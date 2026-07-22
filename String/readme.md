@@ -29,3 +29,5 @@
 [Solution 1678(Easy)](https://leetcode.com/problems/goal-parser-interpretation/)
 
 [Solution 1121(Easy)](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+
+[Solution 3146(Easy)](https://leetcode.com/problems/permutation-difference-between-two-strings/)
