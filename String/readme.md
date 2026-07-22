@@ -27,3 +27,5 @@
 [Solution 1684(Easy)](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 
 [Solution 1678(Easy)](https://leetcode.com/problems/goal-parser-interpretation/)
+
+[Solution 1121(Easy)](https://leetcode.com/problems/split-a-string-in-balanced-strings/)

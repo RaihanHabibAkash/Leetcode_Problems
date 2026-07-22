@@ -195,6 +195,7 @@
 
 [Solution 1254(Medium)](https://leetcode.com/problems/number-of-closed-islands/)
 
+[Solution 1121(Easy)](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
