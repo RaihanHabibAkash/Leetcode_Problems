@@ -199,6 +199,8 @@
 
 [Solution 3146(Easy)](https://leetcode.com/problems/permutation-difference-between-two-strings/)
 
+[Solution 946(Medium)](https://leetcode.com/problems/validate-stack-sequences/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
