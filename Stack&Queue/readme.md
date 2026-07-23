@@ -21,3 +21,5 @@
 [Solution 1598(Easy)](https://leetcode.com/problems/crawler-log-folder/)
 
 [Solution 946(Medium)](https://leetcode.com/problems/validate-stack-sequences/)
+
+[Solution 1021(Easy)](https://leetcode.com/problems/remove-outermost-parentheses/)
