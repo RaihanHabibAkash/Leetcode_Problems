@@ -203,6 +203,8 @@
 
 [Solution 1021(Easy)](https://leetcode.com/problems/remove-outermost-parentheses/)
 
+[Solution 2000(Easy)](https://leetcode.com/problems/reverse-prefix-of-word/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->

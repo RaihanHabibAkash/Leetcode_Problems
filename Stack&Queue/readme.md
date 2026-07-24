@@ -23,3 +23,5 @@
 [Solution 946(Medium)](https://leetcode.com/problems/validate-stack-sequences/)
 
 [Solution 1021(Easy)](https://leetcode.com/problems/remove-outermost-parentheses/)
+
+[Solution 2000(Easy)](https://leetcode.com/problems/reverse-prefix-of-word/)
