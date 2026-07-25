@@ -217,6 +217,8 @@
 
 [Solution 2658(Medium)](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/)
 
+[Solution 3536(Easy)](https://leetcode.com/problems/maximum-product-of-two-digits/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
