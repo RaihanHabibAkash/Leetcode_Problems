@@ -13,3 +13,5 @@
 [Solution 695(Medium)](https://leetcode.com/problems/max-area-of-island/)
 
 [Solution 200(Medium)](https://leetcode.com/problems/number-of-islands/)
+
+[Solution 1905(Medium)](https://leetcode.com/problems/count-sub-islands/)
