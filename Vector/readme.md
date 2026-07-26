@@ -17,3 +17,5 @@
 [Solution 724(Easy)](https://leetcode.com/problems/find-pivot-index/)
 
 [Solution 1991(Easy)](https://leetcode.com/problems/find-the-middle-index-in-array/)
+
+[Solution 628(Easy)](https://leetcode.com/problems/maximum-product-of-three-numbers/)
