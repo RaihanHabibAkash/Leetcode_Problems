@@ -231,6 +231,8 @@
 
 [Solution 419(Medium)](https://leetcode.com/problems/battleships-in-a-board/)
 
+[Solution 1091(Medium)](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
