@@ -225,6 +225,8 @@
 
 [Solution 344(Easy)](https://leetcode.com/problems/reverse-string/)
 
+[Solution 3925(Easy)](https://leetcode.com/problems/concatenate-array-with-reverse/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
