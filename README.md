@@ -237,6 +237,8 @@
 
 [Solution 112(Easy)](https://leetcode.com/problems/path-sum/)
 
+[Solution 3898(Easy)](https://leetcode.com/problems/find-the-degree-of-each-vertex/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
