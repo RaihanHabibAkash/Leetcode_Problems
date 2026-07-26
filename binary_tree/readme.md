@@ -35,3 +35,5 @@
 [Solution 2415(Medium)](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)
 
 [Solution 101(Easy)](https://leetcode.com/problems/symmetric-tree/)
+
+[Solution 112(Easy)](https://leetcode.com/problems/path-sum/)
