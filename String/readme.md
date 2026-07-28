@@ -35,3 +35,5 @@
 [Solution 344(Easy)](https://leetcode.com/problems/reverse-string/)
 
 [Solution 917(Easy)](https://leetcode.com/problems/reverse-only-letters/)
+
+[Solution 1816(Easy)](https://leetcode.com/problems/truncate-sentence/)

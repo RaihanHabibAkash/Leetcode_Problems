@@ -241,6 +241,8 @@
 
 [Solution 1557(Medium)](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 
+[Solution 1816(Easy)](https://leetcode.com/problems/truncate-sentence/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
