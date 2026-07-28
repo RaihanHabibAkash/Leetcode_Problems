@@ -239,6 +239,8 @@
 
 [Solution 3898(Easy)](https://leetcode.com/problems/find-the-degree-of-each-vertex/)
 
+[Solution 1557(Medium)](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
