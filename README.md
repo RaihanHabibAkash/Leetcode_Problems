@@ -243,6 +243,8 @@
 
 [Solution 1816(Easy)](https://leetcode.com/problems/truncate-sentence/)
 
+[Solution 207(Medium)](https://leetcode.com/problems/course-schedule/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
