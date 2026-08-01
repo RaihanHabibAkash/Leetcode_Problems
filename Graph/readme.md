@@ -29,3 +29,5 @@
 [Solution 1557(Medium)](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 
 [Solution 207(Medium)](https://leetcode.com/problems/course-schedule/)
+
+[Solution 802(Medium)](https://leetcode.com/problems/find-eventual-safe-states/)

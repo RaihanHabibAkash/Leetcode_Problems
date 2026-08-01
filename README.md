@@ -245,6 +245,8 @@
 
 [Solution 207(Medium)](https://leetcode.com/problems/course-schedule/)
 
+[Solution 802(Medium)](https://leetcode.com/problems/find-eventual-safe-states/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
