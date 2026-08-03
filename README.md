@@ -249,6 +249,8 @@
 
 [Solution 1020(Medium)](https://leetcode.com/problems/number-of-enclaves/)
 
+[Solution 3925(Easy)](https://leetcode.com/problems/concatenate-array-with-reverse/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->

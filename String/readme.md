@@ -37,3 +37,5 @@
 [Solution 917(Easy)](https://leetcode.com/problems/reverse-only-letters/)
 
 [Solution 1816(Easy)](https://leetcode.com/problems/truncate-sentence/)
+
+[Solution 3925(Easy)](https://leetcode.com/problems/concatenate-array-with-reverse/)
