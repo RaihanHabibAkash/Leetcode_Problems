@@ -33,3 +33,5 @@
 [Solution 802(Medium)](https://leetcode.com/problems/find-eventual-safe-states/)
 
 [Solution 1020(Medium)](https://leetcode.com/problems/number-of-enclaves/)
+
+[Solution 547(Medium)](https://leetcode.com/problems/number-of-provinces/)

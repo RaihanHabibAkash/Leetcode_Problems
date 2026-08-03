@@ -251,6 +251,8 @@
 
 [Solution 3925(Easy)](https://leetcode.com/problems/concatenate-array-with-reverse/)
 
+[Solution 547(Medium)](https://leetcode.com/problems/number-of-provinces/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
