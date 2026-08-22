@@ -253,6 +253,8 @@
 
 [Solution 547(Medium)](https://leetcode.com/problems/number-of-provinces/)
 
+[Solution 743(Medium)](https://leetcode.com/problems/network-delay-time/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->

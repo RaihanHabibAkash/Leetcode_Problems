@@ -35,3 +35,5 @@
 [Solution 1020(Medium)](https://leetcode.com/problems/number-of-enclaves/)
 
 [Solution 547(Medium)](https://leetcode.com/problems/number-of-provinces/)
+
+[Solution 743(Medium)](https://leetcode.com/problems/network-delay-time/)
