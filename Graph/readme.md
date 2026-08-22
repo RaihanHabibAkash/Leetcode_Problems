@@ -37,3 +37,5 @@
 [Solution 547(Medium)](https://leetcode.com/problems/number-of-provinces/)
 
 [Solution 743(Medium)](https://leetcode.com/problems/network-delay-time/)
+
+[Solution 2492(Medium)](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
