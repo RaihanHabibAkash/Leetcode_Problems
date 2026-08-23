@@ -37,3 +37,5 @@
 [Solution 101(Easy)](https://leetcode.com/problems/symmetric-tree/)
 
 [Solution 112(Easy)](https://leetcode.com/problems/path-sum/)
+
+[Solution 2265(Medium)](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)

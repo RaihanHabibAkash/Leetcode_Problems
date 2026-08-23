@@ -261,6 +261,8 @@
 
 [Solution 542(Medium)](https://leetcode.com/problems/01-matrix/)
 
+[Solution 2265(Medium)](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
