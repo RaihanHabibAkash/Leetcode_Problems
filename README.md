@@ -257,6 +257,8 @@
 
 [Solution 2492(Medium)](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
 
+[Solution 1765(Medium)](https://leetcode.com/problems/map-of-highest-peak/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
