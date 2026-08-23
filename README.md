@@ -259,6 +259,8 @@
 
 [Solution 1765(Medium)](https://leetcode.com/problems/map-of-highest-peak/)
 
+[Solution 542(Medium)](https://leetcode.com/problems/01-matrix/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
