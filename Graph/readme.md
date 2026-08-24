@@ -43,3 +43,5 @@
 [Solution 1765(Medium)](https://leetcode.com/problems/map-of-highest-peak/)
 
 [Solution 542(Medium)](https://leetcode.com/problems/01-matrix/)
+
+[Solution 3996(Easy)](https://leetcode.com/problems/even-number-of-knight-moves/)

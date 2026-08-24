@@ -263,6 +263,8 @@
 
 [Solution 2265(Medium)](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
 
+[Solution 3996(Easy)](https://leetcode.com/problems/even-number-of-knight-moves/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
