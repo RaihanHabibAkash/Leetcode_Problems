@@ -1,6 +1,6 @@
 // Problem: Even Number of Knight Moves
 // Platform: LeetCode
-// Difficulty: Eas;y
+// Difficulty: Easy
 // Link: https://leetcode.com/problems/even-number-of-knight-moves/
 // Topics: 2D Grid BFS, level tracker
 /*
