@@ -23,3 +23,5 @@
 [Solution 3925(Easy)](https://leetcode.com/problems/concatenate-array-with-reverse/)
 
 [Solution 541(Easy)](https://leetcode.com/problems/reverse-string-ii/)
+
+[Solution 3264(Easy)](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)

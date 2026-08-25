@@ -265,6 +265,8 @@
 
 [Solution 3996(Easy)](https://leetcode.com/problems/even-number-of-knight-moves/)
 
+[Solution 3264(Easy)](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
