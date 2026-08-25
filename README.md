@@ -269,6 +269,8 @@
 
 [Solution 3718(Easy)](https://leetcode.com/problems/smallest-missing-multiple-of-k/)
 
+[Solution 3512(Easy)](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
