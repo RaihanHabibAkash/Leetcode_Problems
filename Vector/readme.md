@@ -29,3 +29,5 @@
 [Solution 3718(Easy)](https://leetcode.com/problems/smallest-missing-multiple-of-k/)
 
 [Solution 3512(Easy)](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/)
+
+[Solution 3875(Not Done)](https://leetcode.com/problems/construct-uniform-parity-array-i/)

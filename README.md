@@ -273,6 +273,8 @@
 
 [Solution 797(Medium)](https://leetcode.com/problems/all-paths-from-source-to-target/)
 
+[Solution 3875(Not Done)](https://leetcode.com/problems/construct-uniform-parity-array-i/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
