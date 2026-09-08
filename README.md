@@ -275,6 +275,8 @@
 
 [Solution 3875(Easy)](https://leetcode.com/problems/construct-uniform-parity-array-i/)
 
+[Solution 70(Easy)](https://leetcode.com/problems/climbing-stairs/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
