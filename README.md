@@ -283,6 +283,8 @@
 
 [Solution 1926(Medium)](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 
+[Solution 934(Medium)](https://leetcode.com/problems/shortest-bridge/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->

@@ -49,3 +49,5 @@
 [Solution 797(Medium)](https://leetcode.com/problems/all-paths-from-source-to-target/)
 
 [Solution 1926(Medium)](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
+
+[Solution 934(Medium)](https://leetcode.com/problems/shortest-bridge/)
