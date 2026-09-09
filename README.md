@@ -281,6 +281,8 @@
 
 [Solution 1137(Easy)](https://leetcode.com/problems/n-th-tribonacci-number/)
 
+[Solution 1926(Medium)](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
