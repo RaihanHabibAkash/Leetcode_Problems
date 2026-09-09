@@ -33,22 +33,20 @@ The answer is guaranteed to fit within a 32-bit integer, ie. answer <= 2^31 - 1.
 class Solution {
 public:
     int dp[40];
-    
-    int tibo(int n) {
+
+    Solution() {
+        memset(dp, -1, sizeof(dp));
+    }
+
+    int tribonacci(int n) {
         if(n == 0)
             return 0;
-        else if(n == 1 || n == 2)
+        else if(n <= 2)
             return 1;
 
         if(dp[n] != -1)
             return dp[n];
 
-        return dp[n] = tibo(n - 1) + tibo(n - 2) + tibo(n - 3);
-    }
-
-    int tribonacci(int n) {
-        memset(dp, -1, sizeof(dp));
-
-        return tibo(n);
+        return dp[n] = tribonacci(n - 1) + tribonacci(n - 2) + tribonacci(n - 3);
     }
 };
