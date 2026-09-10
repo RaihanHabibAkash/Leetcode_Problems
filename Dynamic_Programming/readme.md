@@ -13,3 +13,5 @@
 [Solution 198(Medium)](https://leetcode.com/problems/house-robber/)
 
 [Solution 213(Medium)](https://leetcode.com/problems/house-robber-ii/)
+
+[Solution 118(Easy)](https://leetcode.com/problems/pascals-triangle/)
