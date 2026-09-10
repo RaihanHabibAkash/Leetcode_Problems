@@ -285,6 +285,8 @@
 
 [Solution 934(Medium)](https://leetcode.com/problems/shortest-bridge/)
 
+[Solution 64(Medium)](https://leetcode.com/problems/minimum-path-sum/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
