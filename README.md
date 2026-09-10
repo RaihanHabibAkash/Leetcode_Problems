@@ -287,6 +287,8 @@
 
 [Solution 64(Medium)](https://leetcode.com/problems/minimum-path-sum/)
 
+[Solution 746(Easy)](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
 <!-- Programming Problems End -->
 
 <!-- JS Problems Start -->
