@@ -1,5 +1,8 @@
 # Leetcode_Problems
 
+## __________________________________________________________________________________________________________
+## <-----DSA Problems----->
+
 <!-- Programming Problems -->
 [Solution 1472](https://leetcode.com/problems/design-browser-history/)
 
@@ -297,7 +300,13 @@
 
 [Solution 518(Medium)](https://leetcode.com/problems/coin-change-ii/)
 
+[Solution 3550(Easy)](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
+
 <!-- Programming Problems End -->
+
+### ___________________________________________________________________________________________________________________________________
+
+## <-----JS Problems----->
 
 <!-- JS Problems Start -->
 [Solution 2667(Easy)](https://leetcode.com/problems/create-hello-world-function/)
