@@ -25,3 +25,5 @@
 [Solution 1021(Easy)](https://leetcode.com/problems/remove-outermost-parentheses/)
 
 [Solution 2000(Easy)](https://leetcode.com/problems/reverse-prefix-of-word/)
+
+[Solution 32(Hard)](https://leetcode.com/problems/longest-valid-parentheses/)

@@ -302,6 +302,8 @@
 
 [Solution 3550(Easy)](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
 
+[Solution 32(Hard)](https://leetcode.com/problems/longest-valid-parentheses/)
+
 <!-- Programming Problems End -->
 
 ### ___________________________________________________________________________________________________________________________________
