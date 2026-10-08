@@ -304,6 +304,8 @@
 
 [Solution 32(Hard)](https://leetcode.com/problems/longest-valid-parentheses/)
 
+[Solution 3751(Medium)](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)
+
 <!-- Programming Problems End -->
 
 ### ___________________________________________________________________________________________________________________________________

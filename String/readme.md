@@ -39,3 +39,5 @@
 [Solution 1816(Easy)](https://leetcode.com/problems/truncate-sentence/)
 
 [Solution 3925(Easy)](https://leetcode.com/problems/concatenate-array-with-reverse/)
+
+[Solution 3751(Medium)](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)
