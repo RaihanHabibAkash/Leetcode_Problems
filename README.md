@@ -1,6 +1,7 @@
 # Leetcode_Problems
 
 ## __________________________________________________________________________________________________________
+
 ## <-----DSA Problems----->
 
 <!-- Programming Problems -->
@@ -307,6 +308,8 @@
 [Solution 3751(Medium)](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/)
 
 [Solution 1379(Easy)](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
+
+[Solution 2778(Easy)](https://leetcode.com/problems/sum-of-squares-of-special-elements/)
 
 <!-- Programming Problems End -->
 

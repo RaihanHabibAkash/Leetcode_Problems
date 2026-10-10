@@ -33,3 +33,5 @@
 [Solution 3875(Easy)](https://leetcode.com/problems/construct-uniform-parity-array-i/)
 
 [Solution 3550(Easy)](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
+
+[Solution 2778(Easy)](https://leetcode.com/problems/sum-of-squares-of-special-elements/)
