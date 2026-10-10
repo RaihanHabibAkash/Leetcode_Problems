@@ -39,3 +39,5 @@
 [Solution 112(Easy)](https://leetcode.com/problems/path-sum/)
 
 [Solution 2265(Medium)](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
+
+[Solution 1379(Easy)](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
