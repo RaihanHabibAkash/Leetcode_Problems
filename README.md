@@ -315,6 +315,8 @@
 
 [Solution 4078(Medium)](https://leetcode.com/problems/three-fibonacci-sum/)
 
+[Solution 4079(Easy)](https://leetcode.com/problems/prime-subset-selection-i/)
+
 <!-- Programming Problems End -->
 
 ### ___________________________________________________________________________________________________________________________________
