@@ -313,6 +313,8 @@
 
 [Solution 1920(Easy)](https://leetcode.com/problems/build-array-from-permutation/)
 
+[Solution 4078(Medium)](https://leetcode.com/problems/three-fibonacci-sum/)
+
 <!-- Programming Problems End -->
 
 ### ___________________________________________________________________________________________________________________________________

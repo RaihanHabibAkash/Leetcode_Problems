@@ -17,3 +17,5 @@
 [Solution 118(Easy)](https://leetcode.com/problems/pascals-triangle/)
 
 [Solution 518(Medium)](https://leetcode.com/problems/coin-change-ii/)
+
+[Solution 4078(Medium)](https://leetcode.com/problems/three-fibonacci-sum/)
