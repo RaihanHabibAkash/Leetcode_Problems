@@ -7,5 +7,3 @@
 [Solution 371(Easy)](https://leetcode.com/problems/sum-of-two-integers/)
 
 [Solution 3536(Easy)](https://leetcode.com/problems/maximum-product-of-two-digits/)
-
-[Solution 4079(Easy)](https://leetcode.com/problems/prime-subset-selection-i/)

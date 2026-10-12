@@ -315,7 +315,9 @@
 
 [Solution 4078(Medium)](https://leetcode.com/problems/three-fibonacci-sum/)
 
-[Solution 4079(Easy)](https://leetcode.com/problems/prime-subset-selection-i/)
+[Solution 4079(Need to Solve)](https://leetcode.com/problems/prime-subset-selection-i/)
+
+[Solution 4080(Need to Solve)](https://leetcode.com/problems/design-bus-seat-booking-system/)
 
 <!-- Programming Problems End -->
 
