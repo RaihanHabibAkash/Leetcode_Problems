@@ -37,3 +37,5 @@
 [Solution 2778(Easy)](https://leetcode.com/problems/sum-of-squares-of-special-elements/)
 
 [Solution 1920(Easy)](https://leetcode.com/problems/build-array-from-permutation/)
+
+[Solution 3668(Easy)](https://leetcode.com/problems/restore-finishing-order/)

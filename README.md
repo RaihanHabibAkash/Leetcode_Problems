@@ -319,6 +319,8 @@
 
 [Solution 4080(Need to Solve)](https://leetcode.com/problems/design-bus-seat-booking-system/)
 
+[Solution 3668(Easy)](https://leetcode.com/problems/restore-finishing-order/)
+
 <!-- Programming Problems End -->
 
 ### ___________________________________________________________________________________________________________________________________
