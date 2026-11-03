@@ -39,3 +39,5 @@
 [Solution 1920(Easy)](https://leetcode.com/problems/build-array-from-permutation/)
 
 [Solution 3668(Easy)](https://leetcode.com/problems/restore-finishing-order/)
+
+[Solution 3736(Easy)](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/)
