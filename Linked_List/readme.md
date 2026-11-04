@@ -35,3 +35,5 @@
 [Solution 707(Medium)](https://leetcode.com/problems/design-linked-list/)
 
 [Solution 92(Medium)](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+[2130. Maximum Twin Sum of a Linked List(Medium)](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
