@@ -327,6 +327,8 @@
 
 [2130. Maximum Twin Sum of a Linked List(Medium)](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
 
+[1385. Find the Distance Value Between Two Arrays(Easy)](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+
 <!-- Programming Problems End -->
 
 ### ___________________________________________________________________________________________________________________________________
